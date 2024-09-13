@@ -2,7 +2,7 @@
     "name": "Sodium Hypochlorite Calculator",
     "short_name": "NaOCl Calc",
     "description": "A simple calculator for Sodium Hypochlorite concentrations.",
-    "start_url": "/index.html",
+    "start_url": "/SodiumHypochloriteCalculator/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#007bff",
